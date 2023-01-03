@@ -16,7 +16,9 @@ extra:
       link: https://twitter.com/FIC_UDC
     - icon: fontawesome/brands/telegram
       link: https://t.me/+mKQjdKvmhEJlNWVk
-
+  analytics:
+    provider: google
+    property: G-J3RS5DMQ4K
 
 nav:
   - Home: index.md
