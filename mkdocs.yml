@@ -6,8 +6,7 @@ theme:
   palette:
     primary: teal
   logo: assets/favicon.png
-
-
+  language: es
 
 extra:
   generator: false
