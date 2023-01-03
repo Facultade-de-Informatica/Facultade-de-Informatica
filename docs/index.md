@@ -1,8 +1,9 @@
 # Facultad de Informática de A Coruña
 
 En los próximos días los sistemas que alojan la web de la FIC estarán realizando tareas de mantenimiento. Mientras tanto
-se mostrará la información básica más relevante en ésta web.
+se mostrará aquí la información básica del centro más relevante para la #familiaFIC.
 
+Mientras tanto, recuerda que siguen abiertos nuestros canales de información habituales: [Telegram](https://t.me/+mKQjdKvmhEJlNWVk), [Twitter](https://twitter.com/FIC_UDC) y [TaboleiroFIC](https://taboleirofic.udc.es/)
 
 ## Enlaces de interes
 

@@ -22,3 +22,15 @@ nav:
   - Home: index.md
   - Información General:
     - Calendario: info_general/calendarios.md
+  - Grado en Ingeniería Informática:
+    - Horarios y exámenes: gei/horariosExamenes.md
+  - Grado en Ciencia e Ingeniería de datos:
+    - Horarios y exámenes: gced/horariosExamenes.md
+  - Grado en Inteligencia Artificial:
+    - Horarios y exámenes: gia/horariosExamenes.md
+  - Master Universitario en Ingeniería Informática:
+    - Horarios y exámenes: muei/horariosExamenes.md
+
+markdown_extensions:
+  - toc:
+      title: En esta página
