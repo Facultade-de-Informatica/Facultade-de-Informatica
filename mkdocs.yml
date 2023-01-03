@@ -1,4 +1,6 @@
-site_name: Facultade de Informática
+site_name: Facultad de Informática - FIC
+
+copyright: Copyright &copy; 2023 - 2024 Facultad de Informática
 
 theme:
   name: material
@@ -18,7 +20,13 @@ extra:
   analytics:
     provider: google
     property: G-J3RS5DMQ4K
-
+  consent:
+    title: Cookie consent
+    description: >- 
+      Utilizamos cookies para reconocer sus preferencias y visitas repetidas, así como
+      para medir la efectividad de la información mostrada y si los usuarios
+      encuentran lo que están buscando. Con su consentimiento, está ayudando a que
+      nuestra facultad mejore..
 nav:
   - Home: index.md
   - Información General:
