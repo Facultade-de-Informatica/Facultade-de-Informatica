@@ -39,6 +39,8 @@ nav:
     - Horarios y exámenes: gia/horariosExamenes.md
   - Master Universitario en Ingeniería Informática:
     - Horarios y exámenes: muei/horariosExamenes.md
+  - Otros estudios de máster:
+    - Enlaces: otros_master/enlaces.md
 
 markdown_extensions:
   - toc:

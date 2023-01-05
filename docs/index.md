@@ -6,6 +6,13 @@ se mostrará aquí la información básica del centro más relevante para la #fa
 Recuerda que siguen abiertos nuestros canales de información habituales: [Telegram](https://t.me/+mKQjdKvmhEJlNWVk), [Twitter](https://twitter.com/FIC_UDC) y 
 [TaboleiroFIC](https://taboleirofic.udc.es/)
 
+## **Avisos**
+
+### Administración e Xestión de Organizacións (AXO) - GEI <small>5 enero, 2023</small>
+
+- El examen de la asignatura "Administración e Xestión de Organizacións" (AXO) del Grado en Ingeniería Informática, que se celebrará el lunes 9 de enero tendrá lugar entre las 10.00 y las 13.00.
+
+
 ## Enlaces de interes
 
 - [Biblioteca](http://www.udc.es/biblioteca.fic/)
