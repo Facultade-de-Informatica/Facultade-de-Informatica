@@ -19,7 +19,7 @@ llevará a cabo es el siguiente:
 - Lunes. Afecta a planta 0, zona de despachos
 - Martes. Afecta a planta 1, zona de despachos, decanato, administración y cafetería
 - Miércoles. Afecta a planta 2, zona de despachos
-- Jueves. Afecta a planta 3 y 4, zona de despachos
+- Jueves. Afecta a planta 3, zona de despachos
 - Viernes. Aulas, laboratorios, biblioteca y administración. <small>Los trabajos comenzarán a las 19:30h</small>
 
 Las actuaciones comenzarán a partir de las 20h para minimizar los inconvenientes y llevarán varias horas. 
