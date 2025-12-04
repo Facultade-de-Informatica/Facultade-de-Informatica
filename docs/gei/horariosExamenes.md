@@ -1,4 +1,15 @@
-## Curso 2022/23
+## Curso 2025/26
 
-- [Horarios del curso](https://udcgal.sharepoint.com/:b:/s/repositoriofic/EQJCTkDffvxHnQ_4f_CoS8kBEb6-HCA6JM0KpdK7_LeK_Q?e=Om21tG)
-- [Calendario de exámenes](https://udcgal.sharepoint.com/:b:/s/repositoriofic/EfoOt-PtPuVLhIfvK1m2S-gBPiHkiTgXVxnNI-xXCeOXWw?e=B2JKTF)
+### Horarios
+
+- [Horarios del curso](https://udcgal.sharepoint.com/:b:/s/repositoriofic/IQCHINeD5-kXQqpPq8h5bvs2AV7XcI8AbvFSPW70b24iT7M?e=qkqraI)
+- [Información acerca de los horarios](https://udcgal.sharepoint.com/:b:/s/repositoriofic/IQBrrHGkQv5CTIMVLlBh23-DAd9cCOLxCmVAIk5A-5sPvP4?e=yvrgYg)
+
+
+### Exámenes
+
+- [Enero](https://udcgal.sharepoint.com/:b:/s/repositoriofic/IQAJSU79lZhCSrUuKPguqcfbART6Au0ZsjvB_NXSGg3Ta_k?e=n2UQuh)
+- [Junio](https://udcgal.sharepoint.com/:b:/s/repositoriofic/IQBNpszEmQzmSbzWFLOL8StOAf9gLTJDdl_5IMAndD3ZO5o?e=8KdWKd)
+- [Julio](https://udcgal.sharepoint.com/:b:/s/repositoriofic/IQCtERD1KTVBQKPk6H71peFEAXqlZsDH6coZ39C56dCZ1pQ?e=5GkEuR)
+
+

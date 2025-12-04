@@ -1,8 +1,9 @@
 # Documentos
 
-## Curso 2022/23
+## Curso 2025/26
 
 En los siguientes enlaces se encuentra disponible la documentación de administración con toda la información necesaria:
+
 
 - [Información 
 general](https://udcgal.sharepoint.com/:f:/s/repositoriofic/EsTbL7N0HWVIpJ-77Ut_ffcBn42mV7lqJ6VEScHkpMYORQ?e=259Zad)

@@ -6,7 +6,7 @@
         centro (voz y datos). Se verán afectados diversos servicios, entre ellos la web. Mientras tanto, se mostrará aquí la información 
         básica del centro más relevante para la #familiaFIC.
 
-Recuerda que siguen abiertos nuestros canales de información habituales: [Telegram](https://t.me/+mKQjdKvmhEJlNWVk), [Twitter](https://twitter.com/FIC_UDC) y 
+Recuerda que siguen abiertos nuestros canales de información habituales: [Telegram](https://t.me/+mKQjdKvmhEJlNWVk), [Bluesky](https://bsky.app/profile/fic-udc.bsky.social) y 
 [TaboleiroFIC](https://taboleirofic.udc.es/)
 
 ## **Avisos**
@@ -50,11 +50,16 @@ La información que se deberá recoger al lanzar una incidencia es la siguiente:
 
 ## Enlaces de interes
 
+<div class="grid cards" markdown>
+
 - [Biblioteca](http://www.udc.es/biblioteca.fic/)
 - [Tutorías](https://www.udc.es/gl/centros_departamentos_servizos/centros/titorias/?codigo=614)
-- [Guías docentes](https://guiadocente.udc.es/guia_docent/index.php?centre=614&ensenyament=null)
+- [Guías docentes](https://academica.udc.gal/doa/consultaPublica/look%5bconpub%5dBuscarPubGuiaDocAs?entradaPublica=true&_anoAcademico=2025&_centro=614&idiomaPais=gl.ES&_gl=1*1vyautr*_ga*MTYzNTY0NzM1Ny4xNzY0ODg1Njgz*_ga_PKZEC02YMQ*czE3NjQ4ODU2ODIkbzEkZzAkdDE3NjQ4ODU2ODIkajYwJGwwJGgw)
 - [Espazos](http://espazos.udc.es/)
 - [TaboleiroFIC](https://taboleirofic.udc.es/)
 - [Repositorio](https://github.com/Facultade-de-Informatica)
-- [Directorio UDC](https://web.archive.org/web/20221008171821/http://directorio.udc.es/)
-- [Acceso Campus Virtual](https://campusvirtual.udc.es/)
+- [Directorio UDC](https://directorio.udc.es/)
+- [Acceso Campus Virtual](https://udconline.udc.gal/)
+
+</div>
+

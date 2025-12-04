@@ -1,25 +1,55 @@
 # Otros Másteres oficiales que se imparten en el centro:
 
-## Máster Universitario en Bioinformática para Ciencias de la Salud
-- [Web propia](http://www.master.bioinformatica.fic.udc.es/)
 
-## Máster Interuniversitario en Ciberseguridad
-- [Web propia](http://www.munics.es/)
+<div class="grid cards" markdown>
 
-## Máster Interuniversitario en Computación de Altas Prestaciones/High Performance Computing
-- [Web propia](http://masterhpc.es/)
+-   __Máster Universitario en Bioinformática para Ciencias de la Salud__
 
-## Máster Interuniveristario en Inteligencia Artificial
-- Web propia (en construcción)
+    ---
 
-## Máster Interuniversitario en Matemática Industrial
-- [Web propia](http://m2i.es/)
+    [Web propia](http://www.master.bioinformatica.fic.udc.es/)
 
-## Máster Interuniversitario en Técnicas Estadísticas
-- [Web propia](http://eio.usc.es/pub/mte/index.php/es)
+-   __Máster Interuniversitario en Ciberseguridad__
 
-## Máster Interuniversitario en Visión por Computador
-- [Web propia](http://www.imcv.eu/)
+    ---
 
-## Máster Interuniversitario en Geoinformática (en extinción, no admite nueva matrícula)
-- [Web propia](http://www.mastergeoinformatica.es/)
+    [Web propia](http://www.munics.es/)
+
+-   __Máster Interuniversitario en Computación de Altas Prestaciones/High Performance Computing__
+
+    ---
+
+    [Web propia](http://masterhpc.es/)
+
+-   __Máster Interuniveristario en Inteligencia Artificial__
+
+    ---
+
+    Web propia (en construcción)
+
+-   __Máster Interuniversitario en Matemática Industrial__
+
+    ---
+
+    [Web propia](http://m2i.es/)
+
+-   __Máster Interuniversitario en Técnicas Estadísticas__
+
+    ---
+
+    [Web propia](http://eio.usc.es/pub/mte/index.php/es)
+
+-   __Máster Interuniversitario en Visión por Computador__
+
+    ---
+
+    [Web propia](http://www.imcv.eu/)
+
+-   __Máster Universitario en internet de las cosas - iot__
+
+    ---
+
+    [Web propia](http://www.mastergeoinformatica.es/)
+
+</div>
+

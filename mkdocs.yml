@@ -1,6 +1,6 @@
 site_name: Facultad de Informática - FIC
 
-copyright: Copyright &copy; 2023 - 2024 Facultad de Informática –
+copyright: Copyright &copy; 2023 - 2026 Facultad de Informática –
   <a href="#__consent">Configuración de cookies</a>
 
 theme:
@@ -27,10 +27,12 @@ theme:
 extra:
   generator: false
   social:
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/FIC_UDC
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/fic-udc.bsky.social
     - icon: fontawesome/brands/telegram
       link: https://t.me/+mKQjdKvmhEJlNWVk
+    - icon: fontawesome/brands/linkedin
+      link: https://es.linkedin.com/in/ficudc
   analytics:
     provider: google
     property: G-J3RS5DMQ4K
@@ -64,4 +66,10 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-
+  - def_list
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  
