@@ -7,7 +7,7 @@ Recuerda que siguen abiertos nuestros canales de información habituales: [Teleg
 
 ??? info "Relación definitiva de solicitudes admitidas en Prácticas en Empresa "
 
-    **Primer cuatrimestre 2025/26**
+    **Segundo cuatrimestre 2025/26**
     
     Publicada en el [Taboleiro Dixital](https://taboleirofic.udc.es) la relación definitiva de estudiantes que pasan a la fase de entrevistas de Prácticas en Empresa para el segundo cuatrimestre. 
     
@@ -17,13 +17,13 @@ Recuerda que siguen abiertos nuestros canales de información habituales: [Teleg
 
 ## Ofertas de empleo
 
-??? info "Bimba y Lola"
+??? abstract "Bimba y Lola"
 
     ¿Te apasiona el mundo de las bases de datos y quieres dar el salto al sector IT?
 
-    En Bimba y Lola buscamos incorporar a nuestro equipo una persona con formación en Ingeniería Informática para aprender y crecer junto a nuestra DBA.
+    En **Bimba y Lola** buscan incorporar a nuestro equipo una persona con formación en **Ingeniería Informática** para aprender y crecer junto a nuestra DBA.
 
-    📌 ¿Qué harás?
+    📌 **¿Qué harás?**
 
     - Aprender a administrar y optimizar bases de datos MySQL y SQL Server.
     - Colaborar en estrategias de backup, restauración y alta disponibilidad.
@@ -32,13 +32,13 @@ Recuerda que siguen abiertos nuestros canales de información habituales: [Teleg
     - Contribuir a la seguridad y control de accesos.
     - Resolver incidencias y colaborar con equipos de desarrollo.
 
-    ✅ Requisitos:
+    ✅ **Requisitos**:
 
     - Formación en Ingeniería Informática.
     - Conocimientos en MySQL y/o SQL Server.
     - Disponibilidad para residir en Vigo.
 
-    🔗 Inscríbete aquí: https://www.byl.studio/people/opportunities/opportunity/285
+    🔗 **Inscríbete aquí**: https://www.byl.studio/people/opportunities/opportunity/285
 
     💡 ¿Por qué es interesante?
 
