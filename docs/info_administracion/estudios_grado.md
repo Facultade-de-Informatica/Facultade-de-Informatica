@@ -26,7 +26,7 @@
 
 ## Matrícula en primer curso por primera vez
 
-- [Guía rápida de matricula](https://udcgal.sharepoint.com/:b:/s/repositoriofic/ESqc0jhIM-dOg5MQKTKknjYBaAKAtIpslkeWKtjF7uPHig?e=gaTfBg)
+- [Guía rápida de matrícula](https://udcgal.sharepoint.com/:b:/s/repositoriofic/ESqc0jhIM-dOg5MQKTKknjYBaAKAtIpslkeWKtjF7uPHig?e=gaTfBg)
 - [Guía ampliada de matrícula: Proceso, ayuda e incidencias](https://www.udc.es/gl/sigma/matricula-en-graos-da-udc/matricula-de-estudantes-de-novo-ingreso/)
 - [Guía rápida sobre la bonificación del 99% de la matrícula por la Xunta de Galicia](https://udcgal.sharepoint.com/:b:/s/repositoriofic/EZPTgwQ0FTtCpKzKmfNMbfkBs8alX_ZLsrIc544NLwJzog?e=kWedsf)
 - [Documentación e instrucciones básicas](https://udcgal.sharepoint.com/:b:/s/repositoriofic/Ed8su4arVthPlxHKSRZ-orUBylJSlKpS-eTb8-AqoN6K3Q?e=rD8zWX)
