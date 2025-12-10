@@ -48,7 +48,11 @@ nav:
   - Información General:
     - Calendario: info_general/calendarios.md
   - Infomación Administración:
-    - Documentos: info_administracion/documentos.md
+    #- Documentos: info_administracion/documentos.md
+    - Atención al público: info_administracion/horarios.md
+    - Estudios de Grado: info_administracion/estudios_grado.md
+    - Estudios de Master: info_administracion/estudios_master.md
+    - Tramites en Secretaría: info_administracion/tramites_secretaria.md
   - Grado en Ingeniería Informática:
     - Horarios y exámenes: gei/horariosExamenes.md
   - Grado en Ciencia e Ingeniería de datos:
