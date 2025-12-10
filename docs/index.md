@@ -54,14 +54,14 @@ Recuerda que siguen abiertos nuestros canales de información habituales: [Teleg
 
 <div class="grid cards" markdown>
 
-- [Biblioteca](http://www.udc.es/biblioteca.fic/)
-- [Tutorías](https://www.udc.es/gl/centros_departamentos_servizos/centros/titorias/?codigo=614)
-- [Guías docentes](https://academica.udc.gal/doa/consultaPublica/look%5bconpub%5dBuscarPubGuiaDocAs?entradaPublica=true&_anoAcademico=2025&_centro=614&idiomaPais=gl.ES&_gl=1*1vyautr*_ga*MTYzNTY0NzM1Ny4xNzY0ODg1Njgz*_ga_PKZEC02YMQ*czE3NjQ4ODU2ODIkbzEkZzAkdDE3NjQ4ODU2ODIkajYwJGwwJGgw)
-- [Espazos](http://espazos.udc.es/)
-- [TaboleiroFIC](https://taboleirofic.udc.es/)
-- [Repositorio](https://github.com/Facultade-de-Informatica)
-- [Directorio UDC](https://directorio.udc.es/)
-- [Acceso Campus Virtual](https://udconline.udc.gal/)
+- [:material-library-outline: Biblioteca](http://www.udc.es/biblioteca.fic/)
+- [:material-head-question-outline: Tutorías](https://www.udc.es/gl/centros_departamentos_servizos/centros/titorias/?codigo=614)
+- [:fontawesome-regular-file: Guías docentes](https://academica.udc.gal/doa/consultaPublica/look%5bconpub%5dBuscarPubGuiaDocAs?entradaPublica=true&_anoAcademico=2025&_centro=614&idiomaPais=gl.ES&_gl=1*1vyautr*_ga*MTYzNTY0NzM1Ny4xNzY0ODg1Njgz*_ga_PKZEC02YMQ*czE3NjQ4ODU2ODIkbzEkZzAkdDE3NjQ4ODU2ODIkajYwJGwwJGgw)
+- [:fontawesome-solid-display: Espazos](http://espazos.udc.es/)
+- [:material-information-outline: TaboleiroFIC](https://taboleirofic.udc.es/)
+- [:octicons-git-merge-24: Repositorio](https://github.com/Facultade-de-Informatica)
+- [:fontawesome-regular-contact-book: Directorio UDC](https://directorio.udc.es/)
+- [:simple-moodle: Acceso Campus Online](https://udconline.udc.gal/)
 
 </div>
 
