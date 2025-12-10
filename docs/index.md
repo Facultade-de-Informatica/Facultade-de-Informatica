@@ -3,6 +3,52 @@
 Recuerda que siguen abiertos nuestros canales de información habituales: [Telegram](https://t.me/+mKQjdKvmhEJlNWVk), [Bluesky](https://bsky.app/profile/fic-udc.bsky.social) y 
 [TaboleiroFIC](https://taboleirofic.udc.es/)
 
+## Noticias
+
+??? info "Relación definitiva de solicitudes admitidas en Prácticas en Empresa "
+
+    **Primer cuatrimestre 2025/26**
+    
+    Publicada en el [Taboleiro Dixital](https://taboleirofic.udc.es) la relación definitiva de estudiantes que pasan a la fase de entrevistas de Prácticas en Empresa para el segundo cuatrimestre. 
+    
+    _El acceso está restringido a estudiantes del título._
+
+
+
+## Ofertas de empleo
+
+??? info "Bimba y Lola"
+
+    ¿Te apasiona el mundo de las bases de datos y quieres dar el salto al sector IT?
+
+    En Bimba y Lola buscamos incorporar a nuestro equipo una persona con formación en Ingeniería Informática para aprender y crecer junto a nuestra DBA.
+
+    📌 ¿Qué harás?
+
+    - Aprender a administrar y optimizar bases de datos MySQL y SQL Server.
+    - Colaborar en estrategias de backup, restauración y alta disponibilidad.
+    - Participar en tareas de tuning y optimización (consultas, índices, rendimiento).
+    - Dar soporte en actualizaciones, parches y migraciones.
+    - Contribuir a la seguridad y control de accesos.
+    - Resolver incidencias y colaborar con equipos de desarrollo.
+
+    ✅ Requisitos:
+
+    - Formación en Ingeniería Informática.
+    - Conocimientos en MySQL y/o SQL Server.
+    - Disponibilidad para residir en Vigo.
+
+    🔗 Inscríbete aquí: https://www.byl.studio/people/opportunities/opportunity/285
+
+    💡 ¿Por qué es interesante?
+
+    - Formación y acompañamiento desde el primer día.
+    - Experiencia real en un entorno profesional.
+    - Oportunidad de crecer en una empresa referente.
+
+    👉 ¡Si buscas aprender y aportar en proyectos reales, esta es tu oportunidad!
+
+
 
 ## Enlaces de interes
 
